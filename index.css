@@ -1,0 +1,25 @@
+header{
+    background-color: yellow;text-align: center; padding: 20px;
+}
+nav{
+    background-color: darkgray;text-align: center; justify-items: center;margin-inline: 0;padding: 0svh;
+}
+footer{
+    background-color: yellow;text-align: center;font-size: large;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 25px;
+}
+nav ul{
+    list-style-type: none; margin: 0%; padding: 0%;
+}
+
+nav ul li{
+    display: block; padding: 35px 35 px; text-decoration: 10px;
+}
+nav ul li a{
+    display: block; padding: 35px 35px; text-decoration: underline;
+}
+nav ul li+li{
+    margin-left: 10px;
+}
+ul{
+    align-items: center;
+}
